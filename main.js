@@ -29,3 +29,10 @@ const geoJSON = {
 };
 
 console.log(geoJSON);
+
+$(".download-geojson-btn").click(function () {
+  requiredData =
+    "data:text/json;charset=utf-8," +
+    encodeURIComponent(JSON.stringify(geoJSON));
+  $(this).attr("href", requiredData);
+});
