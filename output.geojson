@@ -1,0 +1,2177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Hall Line, Newroad Tole, VDC-06 ",
+        "Region": "Lumbini",
+        "Phone": "+977-077-420803/420804/9841614068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.1447, 27.96514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Attariya Municipality-04, Mahendranagar Road",
+        "Region": "Seti Mahakali",
+        "Phone": "091-551383/550787/551384/9858750050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.553625, 28.812018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bagbazar 31, Bagbazar",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4212548/4212120/9851034052 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.32234, 27.70508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Baglung-2, Shreenagar Tole",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "068522568/69/9857640825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.5833, 28.2667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bagmati Municipality, Ward No. 12, Bagmati, Sarlahi",
+        "Region": "Janakpur",
+        "Phone": "046-410086/87, 9856058413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.45, 27.11]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "JaiPrithivi Municipality ward no. 10, Bajhang",
+        "Region": "Seti Mahakali",
+        "Phone": "092-421445/421446/9825620078/9848671177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.1941581, 29.7219377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Badimalika Municipality - 08",
+        "Region": "Seti Mahakali",
+        "Phone": "097-541282/541287/9803036964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.477205, 29.456448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Balaju, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977 - 01 - 4385513/4384981/9851060112 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.295524, 27.730912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Banepa 10, Kavre",
+        "Region": "Bagmati",
+        "Phone": "011-660801/ 660802/660803/9851088554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.5167, 27.6346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tokha Municipality, ward no. 08, Baniyatar, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-5158104/5158102/9851259408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3181, 27.7529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Baudhimai Municipality Ward No. 07, Bankulbazar, Rautahat",
+        "Region": "Narayani",
+        "Phone": "9845036642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.187564, 26.874447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bansgadhi Municipality Ward No. 5, Bansgadhi, Bardiya",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "084-400157 /084-400158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.5181, 28.248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Barathawa Municipality, Ward No. 5, Barathawa, Sarlahi",
+        "Region": "Janakpur",
+        "Phone": "9844248893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.4633, 27.0125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bardaghat Municipality, Ward No. 4, Bardaghat, Nawalparasi",
+        "Region": "Lumbini",
+        "Phone": "078-580441 /078-580442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.792244, 27.556229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bardibas Municipality Ward no. 01, Mahottari",
+        "Region": "Janakpur",
+        "Phone": "044-550730/9851217805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.89183, 26.990085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bidur- 3, Battar",
+        "Region": "Bagmati",
+        "Phone": "+977 010-561906/9851299266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.146618, 27.897776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Battisputali, Old Baneshwor, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4498938/9851007911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.342821, 27.705952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bardagoriya Gaunpalika, Ward No. 2, Bauniya, Kailali",
+        "Region": "Seti Mahakali",
+        "Phone": "091-404129/404130/9858421910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.04833, 28.65833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Belbari Municipality Ward no. 1, Morang, Koshi",
+        "Region": "Koshi",
+        "Phone": "9852060213 (BM), 9844603450 (SM), 021-545461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.413318, 26.65969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Butwal Sub-Metropolitan City, Ward NO 13, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "9857033896(BM),(SM)9857821159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.4322528, 27.686817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Besisahar Municipality Ward No. 07, Trivenitole, Lamjung",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "066- 521400/401/9841117947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.377534, 28.231909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bidur Municipality, Ward No.10. Betrawati, Nuwakot",
+        "Region": "Bagmati",
+        "Phone": "010-412130/ 010-412143/9849480855  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.2078, 27.974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhagwanpur Rural Municipilaty, Ward no. 4, Siraha",
+        "Region": "Sagarmatha",
+        "Phone": "9843507370(BM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.47, 26.58]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Prahari Tole Siddharthanagar - 12, Bhairahawa Nepal",
+        "Region": "Lumbini",
+        "Phone": "+977 - 071 - 521172/521173/ 9857024504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.451137, 27.507279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Suryabinayak Chowk, Bhaktapur",
+        "Region": "Bagmati",
+        "Phone": "+977 1 6619182/ 6619183/ 6619184/9851198305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.4264, 27.6669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tilottama Municipality Ward No. 07, Bhalwari, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-561856/57/9857039601 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.473085, 27.601833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhimad, Tanahu, ward no. 6",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "065572451/9846155997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.0643, 27.9786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sunwal Muncipality Ward no 12,Bhumahi,Nawalparasi ",
+        "Region": "Lumbini",
+        "Phone": "078415352/078415353 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.699541, 27.76628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Biratchowk, Indrapur - 3 Morang Nepal",
+        "Region": "Koshi",
+        "Phone": "+977- 021 - 546773/546769/9842523720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.380537, 26.669608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Opposite D.S.P Office, Biratnagar - 3 Nepal",
+        "Region": "Koshi",
+        "Phone": "+977 21-440401/528923/528936/528349/9852027233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.2821, 26.4631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Biratnagar Metropolitan City, Ward no 7, Main Road, Morang",
+        "Region": "Koshi",
+        "Phone": "9852035008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.2667, 26.4667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Birauta-17, Kaski, Pokhara",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "061-467356/57/9856019630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.31295, 27.71202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Adarshnagar, Birgunj-13, Parsa",
+        "Region": "Narayani",
+        "Phone": "+977-051-527638/9845256754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.872932, 27.009233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhadrapur Road, Birtamod",
+        "Region": "Mechi",
+        "Phone": "+977-23-540977 / 541415/9842640374/9804980890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.31295, 27.71202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kathmandu 6, Tusal Chowk, Boudha",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4499692/4493192/4493193/9851160911 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.357863, 27.720047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Siddharthnagar Municipality, Ward No. 08, Buddhachwok, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "074-521147/48/9847196929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.45298, 27.516775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Buddhabare VDC, Ward No. 6, Pahadi Chowk, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-555209 / 023-555841/9852052940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.05061, 26.72277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sharawan Path, Butwal, Rupendehi",
+        "Region": "Lumbini",
+        "Phone": "+977-071-543238/9857023234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.46648, 27.69687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Lekhnath Chowk Chandragadi -6, Jhapa Nepal",
+        "Region": "Mechi",
+        "Phone": "+977- 023 - 456215/456216/9852683364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.065796, 26.568647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Chandrapur Nagarpalika, Raurtahat",
+        "Region": "Narayani",
+        "Phone": "055-540701/ 540811/540619/9845309090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3576199, 27.1191444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Shivraj Municipality, Ward No. 5 Chandrauta, Kapilvastu",
+        "Region": "Lumbini",
+        "Phone": "076-540508, 076-540509, 9866822910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.865612, 27.648777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhimeshwor municipality ward no. 03, Dolakha, Charikot ",
+        "Region": "Janakpur",
+        "Phone": "049-421922 /9852840459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.048301, 27.665573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Birtamod Municipality, Ward no 2, Charpane, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-546726/27/9842675097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.963894, 26.636569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Chhetrapati, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-4268876,4257441/9851218870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.30778, 27.70927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Thapathali,Thapathali Trade Tower",
+        "Region": "Bagmati",
+        "Phone": "01-5111177/5111179/9851119904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.2882474, 27.6901401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Amargadi Municipality-05, Tufan danda Dadeldhura",
+        "Region": "Seti Mahakali",
+        "Phone": " 096-410290/410291/9848450349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.591458, 29.302442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Devchuli Municipality 13, Daldale, Nawalparasi",
+        "Region": "Lumbini",
+        "Phone": "078-575571/72/9847241036 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.19976, 27.6729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Rajmarg Chowk, Damak, Jhapa",
+        "Region": "Mechi",
+        "Phone": "+977-023-585156/9842069184 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.696626, 26.660394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Damak Municipality, Ward no. 5, Damak Chowk, Jhapa",
+        "Region": "Mechi",
+        "Phone": "9841172633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.686922, 26.660622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Maharshi Chowk Damauli - 10 , Tanahu Nepal",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "+977 - 065 - 562457/562458/9846346156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.266084, 27.975448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mahakali Municipality Ward no. 4, Darchula",
+        "Region": "Seti Mahakali",
+        "Phone": "093-420339/420239/9858754883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.538788, 29.844376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Rohini Rural Municipality, Ward no. 2, Dhakdhai, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-411063/62/9857021778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.5370158, 27.5121696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Dhangadi - 3, Godawari Road",
+        "Region": "Seti Mahakali",
+        "Phone": "+977-091-417061/62/9848054446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.56626, 28.7052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Hospital Line, Main Road",
+        "Region": "Seti Mahakali",
+        "Phone": "091-525562/525563/9858422124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.5694, 28.71615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mahendra Path, Dharan",
+        "Region": "Koshi",
+        "Phone": "+977-025-526520/9852056029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.269101, 26.817102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mechinagar municipality ward no. 01, Dhulabari, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-561272/ 561273/9841430774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.091748, 26.678884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Dhulikhel Municipality, Ward No: 6, Dhulikhel, Kavrepalanchowk",
+        "Region": "Bagmati",
+        "Phone": "011-491056/9851143416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.552515, 27.62063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Dillibazar, Kathmandu Metropolitan City, Ward No. - 33",
+        "Region": "Bagmati",
+        "Phone": "977-01-4434365 / 4434366 / 4435798/ 9851220407 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.33074, 27.70457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tilottama Municipality, Ward No. 3, Drivertole, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": " 071-414693/071-414694/9857031499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.467521, 27.64843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Shuklagandaki Municipality Ward No. 4, Dulegauda,Tanahun",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "065-414139/065-414397/065-414398   /9846041710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.25, 27.91667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Triyuga Municipality - 02, Gaighat, Udayapur",
+        "Region": "Sagarmatha",
+        "Phone": "+977-035-420934/420935/9842126752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.704929, 26.858031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gajuri Rural Municipality, Ward No-01,Gajuri, Dhading",
+        "Region": "Bagmati",
+        "Phone": "010-402156/010-402157/9851091103 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.880169, 27.804838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Galchhi Rural Municipality, Ward No. 7, Galchhi, Dhading",
+        "Region": "Bagmati",
+        "Phone": "010-403176/010-403177/9851219180  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.000146, 27.796028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Garuda Municipality, Ward no. 08, Rautahat",
+        "Region": "Narayani",
+        "Phone": "9845284662(BM), 9818835008(SM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3085, 26.9487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gaur Municipality",
+        "Region": "Narayani",
+        "Phone": "+977-055-521417/521411/9802923543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.277633, 26.764279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gauradaha Municipality,Ward No.4, Dipu Chowk, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-480111 / 023-480112/9852057734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.71405, 26.56429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gaurigunj Rural Municipality, Ward no. 3, Gaurigunj Bazar, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-412064, 023-412065/9843317946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.7271123, 26.4604058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Golfutar Chowk, Kathmandu, Nepal",
+        "Region": "Bagmati",
+        "Phone": " +977- 01 - 4378107/4379248/9851131644 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.34612, 27.751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Partappur Gaunpalika, Ward No.02, Gopijung, Nawalparasi",
+        "Region": "Lumbini",
+        "Phone": "078-400193/94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.78421, 27.479682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kageshwori Manohara Municipality ward no. 08, Gothatar",
+        "Region": "Bagmati",
+        "Phone": "01-4992092/9849899025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.317873, 27.699671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gwarko, Lalitpur Municipality, Ward No. - 6",
+        "Region": "Bagmati",
+        "Phone": "+977-01-5202579/5202607/5202608/9852655455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.33217, 27.66628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bharatpur Metropolitan City - 10, Hakimchowk, Chitwan",
+        "Region": "Narayani",
+        "Phone": "056-523020/056-523241/9845596733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.434191, 27.671994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Haripurwa municipality ward no. 05, Sarlahi",
+        "Region": "Janakpur",
+        "Phone": "9844457387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.5612, 26.9627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Hariwon VDC 09, Krishna Chowk, Sarlahi",
+        "Region": "Janakpur",
+        "Phone": "977-46-530630/530632/9854027900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.550481, 27.090046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kanti Rajpath Hetauda - 3, Makwanpur Nepal",
+        "Region": "Narayani",
+        "Phone": "+977 - 057 - 524237/524238/9851040535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.03425, 27.43019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Dhankuta Municipality, Ward No. 1, Hile, Dhankuta",
+        "Region": "Koshi",
+        "Phone": "026-540631/9842188159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.313259, 27.030976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ilam 1, Ilam",
+        "Region": "Mechi",
+        "Phone": "+977 27 521702, +977 27 521705, 9851033379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.9300271, 26.9105146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Buddhabhumi Municipality, Ward No. 9, Imiliya, Kapilvastu",
+        "Region": "Lumbini",
+        "Phone": "076-412089/ 90/9844766898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.988564, 27.659719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Itahari 1, Sunsari",
+        "Region": "Koshi",
+        "Phone": "+ 977 25 586980/586981/586982/9852648614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.274475, 26.66374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Jagarnathpur Gaaupalika, Ward no. 4 Parsa",
+        "Region": "Narayani",
+        "Phone": "9855035565(BM), 9748645316 (CDMA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.75, 27.1667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ram Mandir Chowk, Janakpur",
+        "Region": "Janakpur",
+        "Phone": "+977-041-590570/ 041-590571/9844173239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.9265428, 26.7289491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Jawalakhel, Lalitpur",
+        "Region": "Bagmati",
+        "Phone": "+977 1 5555548/5555042/5555064/9841882177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3139, 27.6728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Shivasatachhi Municipality ward no. 01, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-470602/ 470603/9842654696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.812905, 26.642184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ramdhuni Bhasi Municipality, Ward No.5, Jhumka, Sunsari",
+        "Region": "Koshi",
+        "Phone": "025-562088 / 025-562289/9852048532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.207252, 26.67324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Joshipur-2, Kailali",
+        "Region": "Seti Mahakali",
+        "Phone": "091-401086/401087/9848432761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.021078, 28.567752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Chandannath Municipality Ward no. 7, Jumla",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "087-520676/77/9848300766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.183707, 29.275561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mechinagar municipality ward no. 06, Kakarvitta, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-562048/ 563359/9849153246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.156529, 26.647554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kalanki, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-5234561/5235262/5234664/9860172262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.2828, 27.6937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kamaladi, Ganeshthan, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4241770/01-4227166/9851132779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.318899, 27.707887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kapan, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977 - 01 - 4810917/4810487/9841363782 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.352699, 27.724551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kausaltar, Bhaktapur",
+        "Region": "Bagmati",
+        "Phone": "+977-01-6634773/9841646996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.364678, 27.674753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kechana Kawal Rural Municipality, ward no. 06, Kechana Kawal, Jhapa",
+        "Region": "Mechi",
+        "Phone": "9862750884 (BM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.033779, 26.431625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Balephi Gaunpalika, Ward No. 07, Khadichaur, Sindhupalchowk",
+        "Region": "Bagmati",
+        "Phone": "+ 977-011-482209, 482210, 482211/9841101047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8265, 27.7536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Debdaha Municipality,  Ward No. 7, Khaireni , Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071- 577933/34/9841071009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.59539, 27.643053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Banke",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "081560751/9848057556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.57095, 28.12144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Loktantrik Chowk - Khumaltar, Lalitpur Municipality, Ward No. - 5",
+        "Region": "Bagmati",
+        "Phone": "+977-01-5230931/01-5231032/01-5230372/9845317688 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.320709, 27.650149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kathmandu Metropolitan city, ward no. 18, Kilagal, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4260070/01-4262270/9815868980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3084289, 27.7073814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kirtipur Municipality - 17, Naya Bazar",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4330237/4331164/9841776632 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.27909, 27.674583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kohalpur - 3, Banke Nepal",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "+977 - 081 - 540858/540891/9851058703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.6833, 28.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tilottama Municipality, Ward no. 15, Kotihawa, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-514155/9860520892(BM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.477312, 27.565707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Aadhikhola Gaunpalika, Ward No. 05, Syangja",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "9856057109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.8098, 28.157736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pragatichowk, Kusma Municipality 04",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "067-421315/067-421316/9841461779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.688, 28.2358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Suddhodan Rural Municipality, Ward No. 3, Labani, Kapilbastu",
+        "Region": "Lumbini",
+        "Phone": "9847158221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.203671, 27.508632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Lagankhel Metropolitan City, Ward no. 06, Lagankhel, Lalitpur",
+        "Region": "Bagmati",
+        "Phone": "01-5535350/9849893715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.325291, 27.668402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ganesh Chowk, Lahan, Siraha",
+        "Region": "Sagarmatha",
+        "Phone": "+977-033-561012/13/9841617635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.477845, 26.714113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pokhara Lekhnath Metropolitan City, Ward No.6, Lakeside, Pokhara, Kaski",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "061-467390 / 061-467391/9856017273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.957264, 28.208552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Lalbandi Municipality, Ward no. 7, Sarlahi, Janakpur,",
+        "Region": "Janakpur",
+        "Phone": "9856034433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.203671, 27.508632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Chailahi VDC-2, Lamahi Bazar, Dang",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "+977-082-540681/540682/9858026188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.522365, 27.87386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Dhobini  Rural Municipality Ward no.04 ,Langadi, Parsa",
+        "Region": "Narayani",
+        "Phone": "9755001624/9855036192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.7067, 27.0874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Lazimpat",
+        "Region": "Bagmati",
+        "Phone": "01- 4002183/4002184/9843007752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.32046, 27.72211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Taalchowk, Lekhnath-7, Kaski",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "061560538/39/9856035501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.058758, 28.162734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Letang Municipality, Ward no. 4, Morang, Koshi",
+        "Region": "Koshi",
+        "Phone": "021-560517/560527/9849304091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.502787, 26.736722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Loharpatti Gaupalika, Mahottari",
+        "Region": "Janakpur",
+        "Phone": "9844027451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8537, 26.8011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Lumbini SanskritikMunicipality, Ward no 10., Lumbini, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-580405/06/9857035500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.294687, 27.69209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mahadewa Gaupalika Ward No. 06, Saptari",
+        "Region": "Sagarmatha",
+        "Phone": "9818815663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.807, 26.5431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Narayangopal Chowk, Maharajgunj",
+        "Region": "Bagmati",
+        "Phone": "+977-1-4379396/4379397/4379398/9851157030 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.346, 27.7288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhimdatta Municipality-04, Campus Road",
+        "Region": "Seti Mahakali",
+        "Phone": "099-520384/520385/9851228432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1797113, 28.9654842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kotahimai Rural Municipality, Ward No. 5, Majhgawa, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "9814286009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.3506546, 27.4465561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Malangwa Municipality - 8",
+        "Region": "Janakpur",
+        "Phone": "+977-046-521441/521442/9841424132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.5598, 26.8546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tarkeshwor Municipality Ward No. 11, Manamaiju, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4364233/ 01-4351490/ 01-4386310/9841585049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.311, 27.749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tilottama Municipality Ward No. 05, Manigram, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-561559 /9857062731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.47287, 27.628995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tilottama Municipality,  Ward No. 8,  Manigram 4 No , Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071- 416210/11/9857032367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.498805, 27.628211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mirchiya Chowk Mirchiya - 4, Siraha Nepal",
+        "Region": "Sagarmatha",
+        "Phone": "033-550871/ 033-550872/9852834144 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.251518, 26.830061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Shrinagar VDC, Ward No. 5, Gamgadhi, Mugu",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "087-460250/9848127934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.0843, 29.5069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Saina Maina Municipality, Ward 3; Murgiya, Rupendehi",
+        "Region": "Lumbini",
+        "Phone": "071-440048/49/9857033044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.340408, 27.687513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Naraha Rural Municipality, Ward No. 6, Siraha",
+        "Region": "Sagarmatha",
+        "Phone": "9804803641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.268042, 26.753763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bharatpur Na. Pa. 4, Lions Chowk",
+        "Region": "Narayani",
+        "Phone": "+977-056-570034/056-570035/9855060128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.424626, 27.691995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Surkhet Road, Nepalgunj",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "+977-081-415218/ 415223/ 415204/ 415254/9858024020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.625225, 28.06587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "New Baneshwor, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4784563/4784564/9851261308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.332943, 27.689079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "New Road, Bishal Bazar, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4227305 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.309492, 27.70415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Meera Home, Khichapokhari,Kathmandu",
+        "Region": "Bagmati",
+        "Phone": " +977-1-4223269/4223169/4222411/4231343/9851032115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.31087, 27.70266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sidhicharan Municipality Ward no. 12, Okhaldhunga",
+        "Region": "Sagarmatha",
+        "Phone": "037-520260/520700/9851174030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.504708, 27.323995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ghodaghodi Municipality ward no. 10, Pahalmanpur Kailali",
+        "Region": "Seti Mahakali",
+        "Phone": "091-400108/400109/9851211996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.890967, 28.700884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mayadevi Rural Municipality, Ward No. 1, Pakadi, Kapilbastu",
+        "Region": "Lumbini",
+        "Phone": "9851136845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.152702, 27.524147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Panchkhal Municipality, Ward no. 7, Panchkhal, Kavrepalanchowk",
+        "Region": "Bagmati",
+        "Phone": "011-499423, 499356, 499477/9841855356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.620236, 27.647577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ramgram Municipality, Ward No. 05, Parasi Bazar, Nawalparasi",
+        "Region": "Lumbini",
+        "Phone": "078-520599/ 078-520889/9857081824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.663136, 27.531675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pathari Sanischare Municipality, Ward No.1, Pathari, Morang",
+        "Region": "Koshi",
+        "Phone": "021-556101 / 021-556102/9841404761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.5593, 26.66048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pepsicola Chowk, Kathmandu - 35",
+        "Region": "Bagmati",
+        "Phone": "01-5156308 ,01-5156309, 01-5156310/9841349986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.360519, 27.689143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pheta Rural Municipality, Ward No. 3, Pheta, Bara",
+        "Region": "Narayani",
+        "Phone": "9845217020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.9479, 27.0038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Mahendra Pool, Pokhara",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "+977-061-539645,061-524941,061-524220/9856024876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.991104, 28.22371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Pulchowk, Lalitpur",
+        "Region": "Bagmati",
+        "Phone": "+977-01-5555662/9841401971 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.316667, 27.67931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Punarbas Municipality, Ward No. 03, Punarbas, Kanchanpur",
+        "Region": "Seti Mahakali",
+        "Phone": " 099-420119/420019/9800671867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.452402, 28.653228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Madhyapur thimi Municipality, Ward no. 6,  Puranothimi, Bhaktapur",
+        "Region": "Bagmati",
+        "Phone": " 016635315/016636819/9851101713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3874, 27.6833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Puspa Lal Chowk",
+        "Region": "Koshi",
+        "Phone": "+977-021461063, +977-021461064, 9842106447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3032, 27.7095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kathmandu Metropolitan City, Ward no. 28, Putalisadak, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4229773 / 4229774/9841047898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3051647, 27.7066072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Rajbiraj Municipality, Ward no. 8, Saptari, Sagarmatha",
+        "Region": "Sagarmatha",
+        "Phone": "031- 521102/ 521103/9804780282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.7567, 26.5419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Butwal sub-metropolitian, Ward No. 9, Rajmarga chauraha, Butwal, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": " 071-438560/071-437343/071-437344/9857042188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.454664, 27.6833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Butwal sub-metropolitian, Ward No. 4, Rammandir Line, Butwal, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "71-540027/071-540028/ 9857030088(BM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.465489, 27.7028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Nagarjun Municipality, Ward No. 6, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4037630/ 4037865/9851116273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.2615477, 27.717751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Musikot Municipality ward no.5, Rukum",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "088-530373/9803310266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.45903, 28.62706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sisne Gaunpalika, Ward No. 06, Rukumkot, Eastern Rukum",
+        "Region": "Lumbini",
+        "Phone": "9851179217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.6011, 28.6254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kamala Municipality Ward no. 04, Dhanusa",
+        "Region": "Janakpur",
+        "Phone": "9844536475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.84, 26.57]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sainamaina Municipality, ward No. 10, Saljhandi, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071465170/9849725933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.263572, 27.701235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Samsi Gaupalika, Mahottari",
+        "Region": "Janakpur",
+        "Phone": "044-620072 / 9844046644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.7333, 26.8122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Arjundhara Municipality, Ward no. 8, Sanischare, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023465125/130/9851031556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.006153, 26.676749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Saatdobato, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-5522105/5522115/5522106/9843256001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.321364, 27.658515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ratnanagar Municipality, Ward no. 06, Sauraha, Chitwan",
+        "Region": "Narayani",
+        "Phone": "9855066493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.495018, 27.577172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Suddodhan Gaunpalika, Ward No.4, Sauraha Farsatikar, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-400206/9857038649 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.40543, 27.629757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Debdaha Municipality, Ward no. 12, Shankarpur, Rupandehi",
+        "Region": "Lumbini",
+        "Phone": "071-690205/9845330956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.567036, 27.562421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Rapti Rural Municipality, Ward no. 5,Shisahaniya, Dang",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "082-402113/402114/9818858120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.651345, 27.84457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Gujara Municipality, Ward No. 9, Simara Bhawanipur, Rautahat",
+        "Region": "Narayani",
+        "Phone": "9849495271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3085, 27.0426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kathmandu Metropolitan City, Ward No. 24 Sinamangal, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "9841459825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.348779, 27.69837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Siraha Municipality-01, Siraha Bazar",
+        "Region": "Sagarmatha",
+        "Phone": "9852832490(BM)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.2075, 26.6528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Nagarjun Municipality, Ward No.  4, Sitapaila, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "01-4671051/9841283585 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.282408, 27.709223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sukedhara, Kathmandu Metropolitan City, Ward No - 4",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4372229/4371297/4371212/9855059526 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3459361, 27.7281367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Sunwal Municipality, ward no 1. Sunwal, Nawalparasi",
+        "Region": "Lumbini",
+        "Phone": "078-570683/9847408178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.641169, 27.60523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Birendra Chowk, Birendra Nagar, Surkhet",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "+977-083-524092/ 9858056183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.614552, 28.596969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Kankai  Municipality, Ward No.3, Surunga, Jhapa",
+        "Region": "Mechi",
+        "Phone": "023-550272/ 550238/9852689554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.896851, 26.653379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Resunga Municipality-01, Putalibazar Tamghas, Gulmi",
+        "Region": "Lumbini",
+        "Phone": "079-520982/9857064502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.244097, 28.06624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Ratnagar Muncipality Ward no 1 , Tandi, Chitwan",
+        "Region": "Narayani",
+        "Phone": "9843457883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.509444, 27.623694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tansen Municipality, Ward No. 4, Silkhan Tole, Palpa",
+        "Region": "Lumbini",
+        "Phone": " 075-521163/075-521181/9857821152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.546493, 27.867654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Buddhabari, Teku, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4104553/9851204999 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3035, 27.698025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bhagwanbahal-29, Thamel, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4219367/4245170/9851047607 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.312579, 27.714694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Thankot-08, Thankot Buspark, Kathmandu",
+        "Region": "Bagmati",
+        "Phone": "+977-01-4312204/9851004701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.219614, 27.693577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tikapur Municipality, Ward No.9, Block No. A, Kailali",
+        "Region": "Seti Mahakali",
+        "Phone": "091-561361 / 091-561101/9851197827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.78, 28.3158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bideha Nagarpalika, Tinkauriya, Dhanusa",
+        "Region": "Janakpur",
+        "Phone": "9807885250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.06862, 26.68743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Tripureswore, Kathmandu Metropolitan City - 11",
+        "Region": "Bagmati",
+        "Phone": "+ 977-1-4117280/81/82/83/84/85/86/9851115533 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.3139, 27.6946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bidur Municipality, Ward No. 1, Trishuli, Nuwakot",
+        "Region": "Bagmati",
+        "Phone": "010-561208 / 010-561274/9851246838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.148075, 27.922149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Bahini Chowk, Duruwa - 4 Tulsipur, Dang Nepal",
+        "Region": "Bheri Karnali Rapti",
+        "Phone": "+977 - 082 - 523086/523087/9849093659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.29619, 28.12906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Urlabari, Morang",
+        "Region": "Koshi",
+        "Phone": "021-541026/9852042034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.637376, 26.660997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "VIP Tole Waling - 3, Syangja Nepal",
+        "Region": "Gandaki Dhaulagiri",
+        "Phone": "+977 - 063 - 440682/9856054230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.4542, 27.5903]
+      }
+    }
+  ]
+}
